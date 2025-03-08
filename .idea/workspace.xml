@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Created code for bonus1.py so that you can enter a title and get the length of characters in the title">
-      <change afterPath="$PROJECT_DIR$/bugfixingexercise.py" afterDir="false" />
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Created bugfixingexercise.py and fixed the 4 bug fixing exercises using 13, 15, 17 as the input for exercises 2, 3, 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bonus1.py" beforeDir="false" afterPath="$PROJECT_DIR$/bonus1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741439440572</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Created bugfixingexercise.py and fixed the 4 bug fixing exercises using 13, 15, 17 as the input for exercises 2, 3, 4">
+      <option name="closed" value="true" />
+      <created>1741441738526</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1741441738526</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,6 +338,7 @@
     <MESSAGE value="Created Multiple input functions and stored each in a python list" />
     <MESSAGE value="Changed to_do to bonus1.py" />
     <MESSAGE value="Created code for bonus1.py so that you can enter a title and get the length of characters in the title" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created code for bonus1.py so that you can enter a title and get the length of characters in the title" />
+    <MESSAGE value="Created bugfixingexercise.py and fixed the 4 bug fixing exercises using 13, 15, 17 as the input for exercises 2, 3, 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created bugfixingexercise.py and fixed the 4 bug fixing exercises using 13, 15, 17 as the input for exercises 2, 3, 4" />
   </component>
 </project>
