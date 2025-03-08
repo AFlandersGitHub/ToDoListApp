@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="added *workspace.xml to .gitignore for cleanliness of avoidance in commits">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.bugfixingexercise">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="bonus1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
@@ -170,9 +170,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.bugfixingexercise" />
         <item itemvalue="Python.bonus1 (1)" />
-        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.bonus1" />
       </list>
@@ -322,7 +322,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741443317323</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added *workspace.xml to .gitignore for cleanliness of avoidance in commits">
+      <option name="closed" value="true" />
+      <created>1741446704579</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741446704579</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added *workspace.xml to .gitignore for cleanliness of avoidance in commits">
+      <option name="closed" value="true" />
+      <created>1741446877802</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741446877802</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
