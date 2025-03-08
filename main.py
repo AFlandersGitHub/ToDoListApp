@@ -6,4 +6,4 @@ todo3 = input(user_prompt)
 todos = [todo1, todo2, todo3, "Hello"]
 print(todos)
 
-print(type(todo1))
+print(type(todos))
