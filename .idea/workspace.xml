@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="added *workspace.xml to .gitignore for cleanliness of avoidance in commits">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="created second bug fixing exercise and completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AFlandersGitHub"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AFlandersGitHub&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:AFlandersGitHub/ToDoListApp.git",
-    "accountId": "0692e417-1538-4a95-b4d4-75dc99598d93"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:AFlandersGitHub/ToDoListApp.git&quot;,
+    &quot;accountId&quot;: &quot;0692e417-1538-4a95-b4d4-75dc99598d93&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -47,9 +44,15 @@
   "keyToString": {
     "Python.app.executor": "Run",
     "Python.bonus1 (1).executor": "Run",
+    "Python.bonus2.2.executor": "Run",
+    "Python.bonus2.executor": "Run",
     "Python.bugfixingexercise.executor": "Run",
+    "Python.bugfixingexercise2.executor": "Run",
+    "Python.e2.executor": "Run",
+    "Python.infinitewhileloop.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.to_do.executor": "Run",
+    "Python.whileloopuserinput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -57,8 +60,14 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="bonus1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\exercises" />
+      <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\bonus" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bugfixingexercise2">
+    <configuration name="bonus2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bonus" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonus1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\bonus\bonus2.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bonus1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bonus2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bonus" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\bonus1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonus/bonus2.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bugfixingexercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bugfixingexercise2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bugfixingexercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/bugfixingexercise2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="infinitewhileloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/infinitewhileloop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="whileloopuserinput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/whileloopuserinput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.bugfixingexercise" />
-        <item itemvalue="Python.bonus1 (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.bonus1" />
+        <item itemvalue="Python.bugfixingexercise2" />
+        <item itemvalue="Python.whileloopuserinput" />
+        <item itemvalue="Python.infinitewhileloop" />
+        <item itemvalue="Python.bonus2.2" />
+        <item itemvalue="Python.bonus2.1" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +347,79 @@
       <option name="project" value="LOCAL" />
       <updated>1741446877802</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added *workspace.xml to .gitignore for cleanliness of avoidance in commits">
+      <option name="closed" value="true" />
+      <created>1741454241638</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1741454241638</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added *workspace.xml to .gitignore for cleanliness of avoidance in commits">
+      <option name="closed" value="true" />
+      <created>1741533469253</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1741533469253</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Created new directories within project and moved python files into respective directories">
+      <option name="closed" value="true" />
+      <created>1741533779120</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1741533779120</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added bonus2.py">
+      <option name="closed" value="true" />
+      <created>1741534371075</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1741534371075</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added bonus2.py and bonus2.2.py">
+      <option name="closed" value="true" />
+      <created>1741541897411</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1741541897411</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added bonus2.1.py and bonus2.2.py">
+      <option name="closed" value="true" />
+      <created>1741542160377</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1741542160377</updated>
+    </task>
+    <task id="LOCAL-00025" summary="created infinitewhileloop.py to show what to avoid">
+      <option name="closed" value="true" />
+      <created>1741542566581</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1741542566581</updated>
+    </task>
+    <task id="LOCAL-00026" summary="created whileloopuserinput.py to show what to avoid with inputs">
+      <option name="closed" value="true" />
+      <created>1741546033031</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1741546033031</updated>
+    </task>
+    <task id="LOCAL-00027" summary="created second bug fixing exercise and completed">
+      <option name="closed" value="true" />
+      <created>1741546571877</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1741546571877</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,7 +427,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -365,6 +458,13 @@
     <MESSAGE value="Created code for bonus1.py so that you can enter a title and get the length of characters in the title" />
     <MESSAGE value="Created bugfixingexercise.py and fixed the 4 bug fixing exercises using 13, 15, 17 as the input for exercises 2, 3, 4" />
     <MESSAGE value="added *workspace.xml to .gitignore for cleanliness of avoidance in commits" />
-    <option name="LAST_COMMIT_MESSAGE" value="added *workspace.xml to .gitignore for cleanliness of avoidance in commits" />
+    <MESSAGE value="Created new directories within project and moved python files into respective directories" />
+    <MESSAGE value="added bonus2.py" />
+    <MESSAGE value="added bonus2.py and bonus2.2.py" />
+    <MESSAGE value="added bonus2.1.py and bonus2.2.py" />
+    <MESSAGE value="created infinitewhileloop.py to show what to avoid" />
+    <MESSAGE value="created whileloopuserinput.py to show what to avoid with inputs" />
+    <MESSAGE value="created second bug fixing exercise and completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="created second bug fixing exercise and completed" />
   </component>
 </project>
