@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="created whileloopuserinput.py to show what to avoid with inputs">
-      <change afterPath="$PROJECT_DIR$/exercises/bugfixingexercise2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="created second bug fixing exercise and completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -414,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741546033031</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="created second bug fixing exercise and completed">
+      <option name="closed" value="true" />
+      <created>1741546571877</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1741546571877</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -459,6 +464,7 @@
     <MESSAGE value="added bonus2.1.py and bonus2.2.py" />
     <MESSAGE value="created infinitewhileloop.py to show what to avoid" />
     <MESSAGE value="created whileloopuserinput.py to show what to avoid with inputs" />
-    <option name="LAST_COMMIT_MESSAGE" value="created whileloopuserinput.py to show what to avoid with inputs" />
+    <MESSAGE value="created second bug fixing exercise and completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="created second bug fixing exercise and completed" />
   </component>
 </project>
