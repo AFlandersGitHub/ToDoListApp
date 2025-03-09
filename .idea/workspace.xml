@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="added bonus2.1.py and bonus2.2.py">
-      <change afterPath="$PROJECT_DIR$/exercises/infinitewhileloop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="created infinitewhileloop.py to show what to avoid">
+      <change afterPath="$PROJECT_DIR$/exercises/whileloopuserinput.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\bonus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.infinitewhileloop">
+  <component name="RunManager" selected="Python.whileloopuserinput">
     <configuration name="bonus2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
@@ -156,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="whileloopuserinput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/whileloopuserinput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.whileloopuserinput" />
         <item itemvalue="Python.infinitewhileloop" />
         <item itemvalue="Python.bonus2.2" />
         <item itemvalue="Python.bonus2.1" />
         <item itemvalue="Python.e2" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +395,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741542160377</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="created infinitewhileloop.py to show what to avoid">
+      <option name="closed" value="true" />
+      <created>1741542566581</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1741542566581</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -439,6 +446,7 @@
     <MESSAGE value="added bonus2.py" />
     <MESSAGE value="added bonus2.py and bonus2.2.py" />
     <MESSAGE value="added bonus2.1.py and bonus2.2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bonus2.1.py and bonus2.2.py" />
+    <MESSAGE value="created infinitewhileloop.py to show what to avoid" />
+    <option name="LAST_COMMIT_MESSAGE" value="created infinitewhileloop.py to show what to avoid" />
   </component>
 </project>
