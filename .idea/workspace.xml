@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="created second bug fixing exercise and completed">
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Created new while loop for main.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -431,7 +431,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741552586975</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="created second bug fixing exercise and completed">
+      <option name="closed" value="true" />
+      <created>1742838419368</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1742838419368</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Created new while loop for main.py">
+      <option name="closed" value="true" />
+      <created>1742838448754</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1742838448754</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,6 +493,7 @@
     <MESSAGE value="created infinitewhileloop.py to show what to avoid" />
     <MESSAGE value="created whileloopuserinput.py to show what to avoid with inputs" />
     <MESSAGE value="created second bug fixing exercise and completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="created second bug fixing exercise and completed" />
+    <MESSAGE value="Created new while loop for main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new while loop for main.py" />
   </component>
 </project>
