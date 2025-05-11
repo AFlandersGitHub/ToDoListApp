@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Added .strip() method to user_action">
-      <change afterPath="$PROJECT_DIR$/bonus/bonus3.1.py" afterDir="false" />
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="added bonus3.1.py">
+      <change afterPath="$PROJECT_DIR$/exercises/bugfixday3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus/bonus3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/bonus/bonus3.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,34 +44,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bugfixingexercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bugfixingexercise2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.e2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.infinitewhileloop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.to_do.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whileloopuserinput.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/Documents/Alexander/2025Coding/30DaysVSCode&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "Python.bonus1 (1).executor": "Run",
+    "Python.bonus2.2.executor": "Run",
+    "Python.bonus2.executor": "Run",
+    "Python.bonus3.1.executor": "Run",
+    "Python.bugfixday3.executor": "Run",
+    "Python.bugfixingexercise.executor": "Run",
+    "Python.bugfixingexercise2.executor": "Run",
+    "Python.e2.executor": "Run",
+    "Python.infinitewhileloop.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.to_do.executor": "Run",
+    "Python.whileloopuserinput.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Alex/Documents/Alexander/2025Coding/30DaysVSCode",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\exercises" />
       <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\bonus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="bonus2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
@@ -456,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742839789240</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="added bonus3.1.py">
+      <option name="closed" value="true" />
+      <created>1746988111726</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1746988111727</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,6 +514,7 @@
     <MESSAGE value="created second bug fixing exercise and completed" />
     <MESSAGE value="Created new while loop for main.py" />
     <MESSAGE value="Added .strip() method to user_action" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added .strip() method to user_action" />
+    <MESSAGE value="added bonus3.1.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bonus3.1.py" />
   </component>
 </project>
