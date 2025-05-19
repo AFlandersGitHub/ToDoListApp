@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="added bugfixday3.py and completed exercises">
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="added an &quot;Edit&quot; case to main.py so user can edit the list of todos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,29 +42,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bugfixday3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bugfixingexercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bugfixingexercise2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.e2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.infinitewhileloop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.to_do.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whileloopuserinput.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/Documents/Alexander/2025Coding/30DaysVSCode&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "Python.bonus1 (1).executor": "Run",
+    "Python.bonus2.2.executor": "Run",
+    "Python.bonus2.executor": "Run",
+    "Python.bonus3.1.executor": "Run",
+    "Python.bugfixday3.executor": "Run",
+    "Python.bugfixingexercise.executor": "Run",
+    "Python.bugfixingexercise2.executor": "Run",
+    "Python.e2.executor": "Run",
+    "Python.infinitewhileloop.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.to_do.executor": "Run",
+    "Python.whileloopuserinput.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Alex/Documents/Alexander/2025Coding/30DaysVSCode",
+    "settings.editor.selected.configurable": "pyconsole"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\exercises" />
@@ -473,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746989576304</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="added an &quot;Edit&quot; case to main.py so user can edit the list of todos">
+      <option name="closed" value="true" />
+      <created>1747686917842</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1747686917842</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,6 +530,7 @@
     <MESSAGE value="Added .strip() method to user_action" />
     <MESSAGE value="added bonus3.1.py" />
     <MESSAGE value="added bugfixday3.py and completed exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bugfixday3.py and completed exercises" />
+    <MESSAGE value="added an &quot;Edit&quot; case to main.py so user can edit the list of todos" />
+    <option name="LAST_COMMIT_MESSAGE" value="added an &quot;Edit&quot; case to main.py so user can edit the list of todos" />
   </component>
 </project>
