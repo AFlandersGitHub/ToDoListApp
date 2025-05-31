@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Created bonus4.py for Day 4 bonus example">
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Created bonus4.py for Day 4 bonus example of string immutable and list mutable and tuple immutable.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bonus/bonus4.py" beforeDir="false" afterPath="$PROJECT_DIR$/bonus/bonus4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\bonus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bonus4">
+  <component name="RunManager" selected="Python.main">
     <configuration name="bonus4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
@@ -186,8 +186,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bonus4" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.bonus4" />
         <item itemvalue="Python.bugfixingexercise2" />
         <item itemvalue="Python.whileloopuserinput" />
         <item itemvalue="Python.infinitewhileloop" />
@@ -498,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748547238146</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Created bonus4.py for Day 4 bonus example of string immutable and list mutable and tuple immutable.">
+      <option name="closed" value="true" />
+      <created>1748715813286</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1748715813286</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +533,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First Commit" />
     <MESSAGE value="Second Commit dev branch" />
     <MESSAGE value="Created to_do.py file" />
     <MESSAGE value="Created app.py file and configured interpreter with .venv folder. Did it on CLI and within PyCharm so may need to delete one of them." />
@@ -550,6 +557,7 @@
     <MESSAGE value="added bugfixday3.py and completed exercises" />
     <MESSAGE value="added an &quot;Edit&quot; case to main.py so user can edit the list of todos" />
     <MESSAGE value="Created bonus4.py for Day 4 bonus example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created bonus4.py for Day 4 bonus example" />
+    <MESSAGE value="Created bonus4.py for Day 4 bonus example of string immutable and list mutable and tuple immutable." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created bonus4.py for Day 4 bonus example of string immutable and list mutable and tuple immutable." />
   </component>
 </project>
