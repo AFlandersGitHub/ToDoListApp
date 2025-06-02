@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Add a todos.txt and have main.py read and write to that file.&#10;Add bonus6.py and three .txt files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Added 6.3codingexercise.py and members.txt files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.6.3codingexercise.executor": "Run",
     "Python.app.executor": "Run",
     "Python.bonus1 (1).executor": "Run",
     "Python.bonus2.2.executor": "Run",
@@ -76,7 +75,7 @@
       <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\bonus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6.3codingexercise">
+  <component name="RunManager" selected="Python.6.4codingexercise">
     <configuration name="6.3codingexercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
@@ -99,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bonus3.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6.4codingexercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bonus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonus/bonus3.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/6.4codingexercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6.4codingexercise" />
         <item itemvalue="Python.6.3codingexercise" />
         <item itemvalue="Python.bonus6" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.bonus5" />
-        <item itemvalue="Python.bonus3.1" />
       </list>
     </recent_temporary>
   </component>
@@ -549,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748889040182</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Added 6.3codingexercise.py and members.txt files">
+      <option name="closed" value="true" />
+      <created>1748892076512</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1748892076512</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -576,7 +583,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Created input function prompt for user" />
     <MESSAGE value="Created Multiple input functions and stored each in a python list" />
     <MESSAGE value="Changed to_do to bonus1.py" />
     <MESSAGE value="Created code for bonus1.py so that you can enter a title and get the length of characters in the title" />
@@ -601,6 +607,7 @@
     <MESSAGE value="Add a bonus5.py example of sorting lists" />
     <MESSAGE value="Add a todos.txt and have main.py read and write to that file." />
     <MESSAGE value="Add a todos.txt and have main.py read and write to that file.&#10;Add bonus6.py and three .txt files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a todos.txt and have main.py read and write to that file.&#10;Add bonus6.py and three .txt files" />
+    <MESSAGE value="Added 6.3codingexercise.py and members.txt files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 6.3codingexercise.py and members.txt files" />
   </component>
 </project>
