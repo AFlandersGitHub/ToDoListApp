@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Added comment to main.py and created bonus7.py List Comprehension example">
-      <change afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="with-context-manager optimized code + todos.txt needed to read/write to">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -595,7 +595,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749307839111</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="with-context-manager optimized code + todos.txt needed to read/write to">
+      <option name="closed" value="true" />
+      <created>1749318739585</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1749318739585</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -622,7 +630,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Created bugfixingexercise.py and fixed the 4 bug fixing exercises using 13, 15, 17 as the input for exercises 2, 3, 4" />
     <MESSAGE value="added *workspace.xml to .gitignore for cleanliness of avoidance in commits" />
     <MESSAGE value="Created new directories within project and moved python files into respective directories" />
     <MESSAGE value="added bonus2.py" />
@@ -647,6 +654,7 @@
     <MESSAGE value="Added 6.4codingexercise.py and ran it to generate 3 new text files" />
     <MESSAGE value="Added 6.5codingexercise.py" />
     <MESSAGE value="Added comment to main.py and created bonus7.py List Comprehension example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added comment to main.py and created bonus7.py List Comprehension example" />
+    <MESSAGE value="with-context-manager optimized code + todos.txt needed to read/write to" />
+    <option name="LAST_COMMIT_MESSAGE" value="with-context-manager optimized code + todos.txt needed to read/write to" />
   </component>
 </project>
