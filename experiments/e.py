@@ -4,4 +4,3 @@ with open("../files/doc.txt") as file:
 
 print(content)
 print(content)
-
