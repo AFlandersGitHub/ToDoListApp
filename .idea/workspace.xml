@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Added 6.5codingexercise.py">
-      <change afterPath="$PROJECT_DIR$/bonus/bonus7.py" afterDir="false" />
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Added comment to main.py and created bonus7.py List Comprehension example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -579,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748897658972</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Added comment to main.py and created bonus7.py List Comprehension example">
+      <option name="closed" value="true" />
+      <created>1748902343789</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1748902343789</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -606,7 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Created code for bonus1.py so that you can enter a title and get the length of characters in the title" />
     <MESSAGE value="Created bugfixingexercise.py and fixed the 4 bug fixing exercises using 13, 15, 17 as the input for exercises 2, 3, 4" />
     <MESSAGE value="added *workspace.xml to .gitignore for cleanliness of avoidance in commits" />
     <MESSAGE value="Created new directories within project and moved python files into respective directories" />
@@ -631,6 +636,7 @@
     <MESSAGE value="Added 6.3codingexercise.py and members.txt files" />
     <MESSAGE value="Added 6.4codingexercise.py and ran it to generate 3 new text files" />
     <MESSAGE value="Added 6.5codingexercise.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 6.5codingexercise.py" />
+    <MESSAGE value="Added comment to main.py and created bonus7.py List Comprehension example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added comment to main.py and created bonus7.py List Comprehension example" />
   </component>
 </project>
