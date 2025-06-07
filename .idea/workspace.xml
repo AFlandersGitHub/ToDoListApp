@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="with-context-manager optimized code + todos.txt needed to read/write to">
+    <list default="true" id="157dfde7-8085-4636-a797-28c8088ecd7b" name="Changes" comment="Editing and Completing Todo Items- Using with context manager to read/write to todos.txt and complete functionality">
+      <change afterPath="$PROJECT_DIR$/experiments/e.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,36 +43,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.6.3codingexercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4codingexercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5codingexercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bonus7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bugfixday3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bugfixingexercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bugfixingexercise2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.e2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.infinitewhileloop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.to_do.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whileloopuserinput.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/Documents/Alexander/2025Coding/30DaysVSCode&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;pyconsole&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.6.3codingexercise.executor": "Run",
+    "Python.6.4codingexercise.executor": "Run",
+    "Python.6.5codingexercise.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.bonus1 (1).executor": "Run",
+    "Python.bonus2.2.executor": "Run",
+    "Python.bonus2.executor": "Run",
+    "Python.bonus3.1.executor": "Run",
+    "Python.bonus4.executor": "Run",
+    "Python.bonus5.executor": "Run",
+    "Python.bonus6.executor": "Run",
+    "Python.bonus7.executor": "Run",
+    "Python.bugfixday3.executor": "Run",
+    "Python.bugfixingexercise.executor": "Run",
+    "Python.bugfixingexercise2.executor": "Run",
+    "Python.e (1).executor": "Run",
+    "Python.e2.executor": "Run",
+    "Python.experiment.executor": "Run",
+    "Python.infinitewhileloop.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.to_do.executor": "Run",
+    "Python.whileloopuserinput.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Alex/Documents/Alexander/2025Coding/30DaysVSCode",
+    "settings.editor.selected.configurable": "pyconsole"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\files\subfiles" />
@@ -82,51 +83,7 @@
       <recent name="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\bonus" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="6.3codingexercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ToDoListApp" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/6.3codingexercise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6.4codingexercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ToDoListApp" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/6.4codingexercise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.e (1)">
     <configuration name="6.5codingexercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
@@ -171,6 +128,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="e (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToDoListApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments/e.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="e" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToDoListApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Alex\Documents\Alexander\2025Coding\PythonMegaCourse\repos\ToDoListApp\experiments\e.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDoListApp" />
       <option name="ENV_FILES" value="" />
@@ -195,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.e (1)" />
+        <item itemvalue="Python.experiment" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.bonus7" />
         <item itemvalue="Python.6.5codingexercise" />
-        <item itemvalue="Python.6.4codingexercise" />
-        <item itemvalue="Python.6.3codingexercise" />
       </list>
     </recent_temporary>
   </component>
@@ -603,7 +604,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749318739585</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Editing and Completing Todo Items- Using with context manager to read/write to todos.txt and complete functionality">
+      <option name="closed" value="true" />
+      <created>1749323004474</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1749323004474</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -630,7 +639,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added *workspace.xml to .gitignore for cleanliness of avoidance in commits" />
     <MESSAGE value="Created new directories within project and moved python files into respective directories" />
     <MESSAGE value="added bonus2.py" />
     <MESSAGE value="added bonus2.py and bonus2.2.py" />
@@ -655,6 +663,7 @@
     <MESSAGE value="Added 6.5codingexercise.py" />
     <MESSAGE value="Added comment to main.py and created bonus7.py List Comprehension example" />
     <MESSAGE value="with-context-manager optimized code + todos.txt needed to read/write to" />
-    <option name="LAST_COMMIT_MESSAGE" value="with-context-manager optimized code + todos.txt needed to read/write to" />
+    <MESSAGE value="Editing and Completing Todo Items- Using with context manager to read/write to todos.txt and complete functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editing and Completing Todo Items- Using with context manager to read/write to todos.txt and complete functionality" />
   </component>
 </project>
