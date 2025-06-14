@@ -1,3 +1,5 @@
+#Password strength check
+
 password = input("Enter new password: ")
 
 result = {}
