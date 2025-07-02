@@ -3,6 +3,7 @@ def get_todos(filepath):
         todos_local = file_local.readlines()
     return todos_local
 
+def write_todos()
 
 while True:
     user_action = input("Type add, show, edit, complete or exit: ")
