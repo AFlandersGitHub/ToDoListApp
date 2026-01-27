@@ -1,8 +1,12 @@
-user_prompt = "Enter a todo:"
+import csv
 
-todos = []
+with open("../weather.csv", 'r') as file:
+    data = list(csv.reader(file))
 
-while True:
-    todo = input(user_prompt)
-    print(todo.title())
-    todos.append(todo)
+print(data)
+
+city = input("Enter a city: ")
+
+for row in data[1:]:
+    if row[0] == city:
+        print(row[1])
