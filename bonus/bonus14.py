@@ -1,4 +1,4 @@
-from bonus.converters14 import convert
+from bonus.converters import convert
 from bonus.parsers14 import parse
 
 feet_inches = input("Enter feet and inches: ")
